@@ -1,0 +1,4 @@
+name<-c("Deepshika","Shivani")
+age<-c(18,19)
+df<-data.frame(name,age)
+print(df)
